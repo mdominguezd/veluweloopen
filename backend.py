@@ -50,8 +50,8 @@ def create_map(gpx_routes):
     # Add a custom legend (HTML)
     legend_html = '''
      <div style="position: fixed;
-                 bottom: 50px; left: 50px; width: 150px; height: 90px;
-                 background-color: white; border:2px; z-index:9999; font-size:14px;
+                 bottom: 50px; left: 50px; width: 150px; height: 90px; color: black;
+                 background-color: white; border:2px black; z-index:9999; font-size:14px;
                  ">
      &nbsp;<b style='text-align: center'>Legend</b><br>
      &nbsp;<i style="color:red"> -- </i>&nbsp;Running<br>

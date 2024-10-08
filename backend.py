@@ -40,7 +40,31 @@ def create_map(gpx_routes):
     
     # Add GPX routes to the map
     for i, route in enumerate(gpx_routes):
-        folium.PolyLine(route, color=colors[i], weight=2.5, opacity=1).add_to(m)
+        if i == 0:
+            # First route is for the runner (in red)
+            folium.PolyLine(route, color='red', weight=2.5, opacity=1, tooltip="Runner").add_to(m)
+        else:
+            # Other routes are for cyclists
+            folium.PolyLine(route, color=colors[i], weight=2.5, opacity=1, tooltip="Cyclist").add_to(m)
+    
+    # Add a custom legend (HTML)
+    legend_html = '''
+     <div style="position: fixed;
+                 bottom: 50px; left: 50px; width: 150px; height: 90px;
+                 background-color: white; border:2px; z-index:9999; font-size:14px;
+                 ">
+     &nbsp;<b style='text-align: center'>Legend</b><br>
+     &nbsp;<i style="color:red"> -- </i>&nbsp;Running<br>
+     &nbsp;<i style="color:blue"> -- </i>&nbsp;Cycling
+     </div>
+     '''
+    
+    # Create a DivIcon for the legend
+    legend_overlay = folium.DivIcon(html=legend_html)
+
+     # Add the legend as an overlay
+    folium.Marker([centroid_lat + 0.01, centroid_lon - 0.02], icon=legend_overlay).add_to(m)
+
     
     return m
 

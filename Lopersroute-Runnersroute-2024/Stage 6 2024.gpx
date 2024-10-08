@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="afstandmeten.nl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>Stage 6 2023</name>
+    <desc/>
+    <trkseg>
+      <trkpt lat="52.0378496" lon="5.9387017">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="52.0380447" lon="5.9436886">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:05:57Z</time>
+      </trkpt>
+      <trkpt lat="52.0384722" lon="5.9535583">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:17:43Z</time>
+      </trkpt>
+      <trkpt lat="52.0390239" lon="5.9534397">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:18:48Z</time>
+      </trkpt>
+      <trkpt lat="52.0392569" lon="5.9593511">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:25:51Z</time>
+      </trkpt>
+      <trkpt lat="52.0375951" lon="5.960938">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:29:34Z</time>
+      </trkpt>
+      <trkpt lat="52.0371862" lon="5.9610669">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:30:23Z</time>
+      </trkpt>
+      <trkpt lat="52.0319226" lon="5.9653188">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:41:45Z</time>
+      </trkpt>
+      <trkpt lat="52.030511" lon="5.9670367">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:45:09Z</time>
+      </trkpt>
+      <trkpt lat="52.0299833" lon="5.9679387">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:46:38Z</time>
+      </trkpt>
+      <trkpt lat="52.0282813" lon="5.9700646">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:50:47Z</time>
+      </trkpt>
+      <trkpt lat="52.0261439" lon="5.9724483">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:55:48Z</time>
+      </trkpt>
+      <trkpt lat="52.0256821" lon="5.9731784">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:57:03Z</time>
+      </trkpt>
+      <trkpt lat="52.025471" lon="5.9743381">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:58:29Z</time>
+      </trkpt>
+      <trkpt lat="52.0250092" lon="5.97524">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:59:53Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+

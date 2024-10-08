@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="afstandmeten.nl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>Etappe 7_aangepast 2021</name>
+    <desc/>
+    <trkseg>
+      <trkpt lat="52.0250647" lon="5.9752041">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="52.024948" lon="5.9744364">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:00:26Z</time>
+      </trkpt>
+      <trkpt lat="52.0247953" lon="5.9739758">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:00:42Z</time>
+      </trkpt>
+      <trkpt lat="52.0247414" lon="5.9735536">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:00:56Z</time>
+      </trkpt>
+      <trkpt lat="52.0245301" lon="5.9733289">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:01:09Z</time>
+      </trkpt>
+      <trkpt lat="52.0243908" lon="5.9730218">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:01:21Z</time>
+      </trkpt>
+      <trkpt lat="52.0242696" lon="5.9723968">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:01:42Z</time>
+      </trkpt>
+      <trkpt lat="52.0243594" lon="5.9716127">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:02:07Z</time>
+      </trkpt>
+      <trkpt lat="52.0243264" lon="5.9712801">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:02:18Z</time>
+      </trkpt>
+      <trkpt lat="52.0243638" lon="5.9711082">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:02:24Z</time>
+      </trkpt>
+      <trkpt lat="52.0265695" lon="5.969414">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:04:29Z</time>
+      </trkpt>
+      <trkpt lat="52.0265695" lon="5.9694085">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:04:30Z</time>
+      </trkpt>
+      <trkpt lat="52.0266997" lon="5.9692495">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:04:38Z</time>
+      </trkpt>
+      <trkpt lat="52.0226659" lon="5.9672318">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:08:16Z</time>
+      </trkpt>
+      <trkpt lat="52.0203976" lon="5.9662174">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:10:17Z</time>
+      </trkpt>
+      <trkpt lat="52.0187852" lon="5.9662558">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:11:40Z</time>
+      </trkpt>
+      <trkpt lat="52.0184078" lon="5.9638542">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:12:59Z</time>
+      </trkpt>
+      <trkpt lat="52.0181058" lon="5.9645696">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:13:27Z</time>
+      </trkpt>
+      <trkpt lat="52.0162791" lon="5.9563667">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:18:03Z</time>
+      </trkpt>
+      <trkpt lat="52.0203695" lon="5.9537128">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:21:51Z</time>
+      </trkpt>
+      <trkpt lat="52.0205133" lon="5.9530548">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:22:13Z</time>
+      </trkpt>
+      <trkpt lat="52.0207469" lon="5.9526381">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:22:31Z</time>
+      </trkpt>
+      <trkpt lat="52.0214296" lon="5.952331">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:23:07Z</time>
+      </trkpt>
+      <trkpt lat="52.0219686" lon="5.9519801">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:23:37Z</time>
+      </trkpt>
+      <trkpt lat="52.0223638" lon="5.9515196">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:24:02Z</time>
+      </trkpt>
+      <trkpt lat="52.0224716" lon="5.9511028">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:24:17Z</time>
+      </trkpt>
+      <trkpt lat="52.0226513" lon="5.95073">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:24:32Z</time>
+      </trkpt>
+      <trkpt lat="52.0230285" lon="5.9504448">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:24:53Z</time>
+      </trkpt>
+      <trkpt lat="52.0235495" lon="5.9498526">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:25:26Z</time>
+      </trkpt>
+      <trkpt lat="52.0237472" lon="5.9495017">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:25:41Z</time>
+      </trkpt>
+      <trkpt lat="52.0241065" lon="5.9486683">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:26:13Z</time>
+      </trkpt>
+      <trkpt lat="52.0243939" lon="5.9476374">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:26:49Z</time>
+      </trkpt>
+      <trkpt lat="52.0250767" lon="5.9466066">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:27:37Z</time>
+      </trkpt>
+      <trkpt lat="52.0251306" lon="5.946453">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:27:43Z</time>
+      </trkpt>
+      <trkpt lat="52.0255797" lon="5.9456854">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:28:17Z</time>
+      </trkpt>
+      <trkpt lat="52.0258492" lon="5.9456196">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:28:31Z</time>
+      </trkpt>
+      <trkpt lat="52.027574" lon="5.9448519">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:30:03Z</time>
+      </trkpt>
+      <trkpt lat="52.0288855" lon="5.9444571">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:31:12Z</time>
+      </trkpt>
+      <trkpt lat="52.0292988" lon="5.9442597">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:31:34Z</time>
+      </trkpt>
+      <trkpt lat="52.029748" lon="5.9439088">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:32:00Z</time>
+      </trkpt>
+      <trkpt lat="52.0305743" lon="5.9430096">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:32:51Z</time>
+      </trkpt>
+      <trkpt lat="52.0315984" lon="5.9413646">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:34:05Z</time>
+      </trkpt>
+      <trkpt lat="52.0314187" lon="5.9394126">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:35:08Z</time>
+      </trkpt>
+      <trkpt lat="52.031275" lon="5.9387107">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:35:31Z</time>
+      </trkpt>
+      <trkpt lat="52.030718" lon="5.9331398">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:38:30Z</time>
+      </trkpt>
+      <trkpt lat="52.0310055" lon="5.933074">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:38:45Z</time>
+      </trkpt>
+      <trkpt lat="52.0314007" lon="5.9306833">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:40:04Z</time>
+      </trkpt>
+      <trkpt lat="52.0319757" lon="5.9309245">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:40:35Z</time>
+      </trkpt>
+      <trkpt lat="52.0329818" lon="5.9310123">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:41:27Z</time>
+      </trkpt>
+      <trkpt lat="52.0325506" lon="5.9270205">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:43:35Z</time>
+      </trkpt>
+      <trkpt lat="52.03291" lon="5.9274153">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:43:58Z</time>
+      </trkpt>
+      <trkpt lat="52.0340418" lon="5.9277881">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:44:57Z</time>
+      </trkpt>
+      <trkpt lat="52.0330177" lon="5.9156814">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:51:25Z</time>
+      </trkpt>
+      <trkpt lat="52.0311492" lon="5.9123695">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:53:48Z</time>
+      </trkpt>
+      <trkpt lat="52.0306102" lon="5.9111632">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:54:35Z</time>
+      </trkpt>
+      <trkpt lat="52.0318142" lon="5.9098912">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:55:49Z</time>
+      </trkpt>
+      <trkpt lat="52.0319435" lon="5.9098485">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:55:56Z</time>
+      </trkpt>
+      <trkpt lat="52.0326521" lon="5.9104111">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:56:36Z</time>
+      </trkpt>
+      <trkpt lat="52.0332881" lon="5.9112401">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:57:19Z</time>
+      </trkpt>
+      <trkpt lat="52.0353751" lon="5.9102227">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:59:11Z</time>
+      </trkpt>
+      <trkpt lat="52.0356668" lon="5.9100866">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:59:27Z</time>
+      </trkpt>
+      <trkpt lat="52.0361815" lon="5.9098399">
+        <ele>0.00000</ele>
+        <time>2021-10-10T00:59:54Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+

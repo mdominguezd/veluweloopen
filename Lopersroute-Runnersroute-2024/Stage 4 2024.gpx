@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="afstandmeten.nl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>Stage 4 2023</name>
+    <desc/>
+    <trkseg>
+      <trkpt lat="51.9911258" lon="5.8891006">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="51.9912777" lon="5.8893284">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:00:16Z</time>
+      </trkpt>
+      <trkpt lat="51.9918048" lon="5.8889101">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:01:00Z</time>
+      </trkpt>
+      <trkpt lat="51.9920236" lon="5.8887277">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:01:19Z</time>
+      </trkpt>
+      <trkpt lat="51.9923737" lon="5.8885238">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:01:47Z</time>
+      </trkpt>
+      <trkpt lat="51.9930171" lon="5.887951">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:02:42Z</time>
+      </trkpt>
+      <trkpt lat="51.9933415" lon="5.8875883">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:03:12Z</time>
+      </trkpt>
+      <trkpt lat="51.9946638" lon="5.8862795">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:05:08Z</time>
+      </trkpt>
+      <trkpt lat="51.9954254" lon="5.8854633">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:06:17Z</time>
+      </trkpt>
+      <trkpt lat="51.9957508" lon="5.88518">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:06:44Z</time>
+      </trkpt>
+      <trkpt lat="51.9961268" lon="5.8861753">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:07:39Z</time>
+      </trkpt>
+      <trkpt lat="51.9962047" lon="5.886097">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:07:45Z</time>
+      </trkpt>
+      <trkpt lat="51.9962814" lon="5.8861407">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:07:52Z</time>
+      </trkpt>
+      <trkpt lat="51.9964449" lon="5.8860844">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:08:04Z</time>
+      </trkpt>
+      <trkpt lat="51.996891" lon="5.8856992">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:08:42Z</time>
+      </trkpt>
+      <trkpt lat="51.9974347" lon="5.8863154">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:09:32Z</time>
+      </trkpt>
+      <trkpt lat="52.0000177" lon="5.8847417">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:13:00Z</time>
+      </trkpt>
+      <trkpt lat="52.0010666" lon="5.8871407">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:15:16Z</time>
+      </trkpt>
+      <trkpt lat="52.0011232" lon="5.8871504">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:15:20Z</time>
+      </trkpt>
+      <trkpt lat="52.0022723" lon="5.8855942">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:17:13Z</time>
+      </trkpt>
+      <trkpt lat="52.0030275" lon="5.8872756">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:18:49Z</time>
+      </trkpt>
+      <trkpt lat="52.003418" lon="5.8868035">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:19:26Z</time>
+      </trkpt>
+      <trkpt lat="52.0036151" lon="5.8864709">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:19:47Z</time>
+      </trkpt>
+      <trkpt lat="52.0038057" lon="5.8866928">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:20:05Z</time>
+      </trkpt>
+      <trkpt lat="52.003946" lon="5.8867138">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:20:15Z</time>
+      </trkpt>
+      <trkpt lat="52.004355" lon="5.8863652">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:20:50Z</time>
+      </trkpt>
+      <trkpt lat="52.0050187" lon="5.8854985">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:21:54Z</time>
+      </trkpt>
+      <trkpt lat="52.0051956" lon="5.8858243">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:22:14Z</time>
+      </trkpt>
+      <trkpt lat="52.0059991" lon="5.884905">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:23:28Z</time>
+      </trkpt>
+      <trkpt lat="52.0070034" lon="5.887202">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:25:39Z</time>
+      </trkpt>
+      <trkpt lat="52.0072808" lon="5.8877063">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:26:10Z</time>
+      </trkpt>
+      <trkpt lat="52.008661" lon="5.8857751">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:28:27Z</time>
+      </trkpt>
+      <trkpt lat="52.0116394" lon="5.8822238">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:33:05Z</time>
+      </trkpt>
+      <trkpt lat="52.0119743" lon="5.8819972">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:33:33Z</time>
+      </trkpt>
+      <trkpt lat="52.0123575" lon="5.8821176">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:34:02Z</time>
+      </trkpt>
+      <trkpt lat="52.0138515" lon="5.8818483">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:35:55Z</time>
+      </trkpt>
+      <trkpt lat="52.017836" lon="5.8808968">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:40:58Z</time>
+      </trkpt>
+      <trkpt lat="52.0213304" lon="5.8789886">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:45:35Z</time>
+      </trkpt>
+      <trkpt lat="52.0213394" lon="5.8789886">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:45:36Z</time>
+      </trkpt>
+      <trkpt lat="52.0242947" lon="5.8771902">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:49:34Z</time>
+      </trkpt>
+      <trkpt lat="52.0244115" lon="5.876905">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:49:49Z</time>
+      </trkpt>
+      <trkpt lat="52.0232437" lon="5.8728146">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:53:18Z</time>
+      </trkpt>
+      <trkpt lat="52.028083" lon="5.8715327">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:59:27Z</time>
+      </trkpt>
+      <trkpt lat="52.0283393" lon="5.8717818">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:59:50Z</time>
+      </trkpt>
+      <trkpt lat="52.0283984" lon="5.8718815">
+        <ele>0.00000</ele>
+        <time>2023-10-06T00:59:56Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+

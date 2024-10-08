@@ -28,7 +28,7 @@ if user_files:
     run_start_time, gpx_files = show_runner_data(user_selection)
 
     st.markdown("<h1 style='text-align: center'> &#128336 </h1>", unsafe_allow_html=True)
-    st.markdown("<h2 style='text-align: center; color: white;'>Running start time: " + run_start_time + "</h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: center'>Running start time: " + run_start_time + "</h2>", unsafe_allow_html=True)
 
     # Load selected user's GPX route
     files = []

@@ -1,7 +1,10 @@
+import streamlit as st
 import folium
 import gpxpy
 import pandas as pd
 from folium.plugins import LocateControl
+import openrouteservice
+from openrouteservice import convert
 
 # Function to load GPX data
 def load_gpx(file_path):
@@ -31,9 +34,6 @@ def create_map(gpx_routes):
     
     # Create map centered on the centroid
     m = folium.Map(location=[centroid_lat, centroid_lon], zoom_start=12)
-    
-    # Add LocateControl for current location
-    LocateControl().add_to(m)
 
     # Color options for different routes
     colors = ['red', 'blue', 'green', 'purple', 'orange', 'darkred', 'lightred', 'beige', 'darkblue', 'darkgreen', 'cadetblue', 'darkpurple']
@@ -43,9 +43,13 @@ def create_map(gpx_routes):
         if i == 0:
             # First route is for the runner (in red)
             folium.PolyLine(route, color='red', weight=2.5, opacity=1, tooltip="Runner").add_to(m)
+            folium.Marker(route[0], color='red', weight=2.5, opacity=1, tooltip="Start point", 
+                          icon=folium.DivIcon(html=f"""<div style="font-size: 14; background-color: #FFCCCB; width: 220%"><h1>&#127939</h1></div>""")).add_to(m)
         else:
             # Other routes are for cyclists
             folium.PolyLine(route, color=colors[i], weight=2.5, opacity=1, tooltip="Cyclist").add_to(m)
+            folium.Marker(route[0], color='red', weight=2.5, opacity=1, tooltip="Start point", 
+                          icon=folium.DivIcon(html=f"""<div style="font-size: 20; background-color: lightblue; width: 220%"><h1>&#128692</h1></div>""")).add_to(m)
     
     # Add a custom legend (HTML)
     legend_html = '''
@@ -68,6 +72,25 @@ def create_map(gpx_routes):
     
     return m
 
+def get_to_start(m, current, target):
+
+    # Add LocateControl for current location
+    api_key = st.secrets['openroute_key']  # Get your OpenRouteService API key
+    client = openrouteservice.Client(key=api_key)
+
+    coordinates = [current, target]
+
+    route = client.directions(coordinates, profile='foot-walking')
+
+    # Convert the geometry of the route into GeoJSON
+    route_geojson = convert.decode_polyline(route['routes'][0]['geometry'])
+
+    folium.PolyLine(locations=[(coord[1], coord[0]) for coord in route_geojson['coordinates']],
+                color='black', weight=6, opacity=0.8).add_to(m)
+
+    return m
+
+
 def show_runner_data(runner):
 
     df = pd.read_csv('Veluweloop.csv')
@@ -80,3 +103,4 @@ def show_runner_data(runner):
     run_start_time = run_df['start_time'].iloc[0]
 
     return run_start_time, gpx_files
+
